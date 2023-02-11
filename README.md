@@ -7,3 +7,5 @@
 ### Version: Alpha 0.0.1 (not even functional)
 
 first upload to pip just, still finishing it
+Dont use till this description includes examples
+
