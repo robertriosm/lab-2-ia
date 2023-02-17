@@ -8,4 +8,3 @@
 
 first upload to pip just, still finishing it
 Dont use untill this description includes examples
-
