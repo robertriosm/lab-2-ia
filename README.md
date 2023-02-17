@@ -64,9 +64,9 @@ bn.inference()
 
 the principal services are:
 
-[x] BayesianNetwork.describe() -> checks if a probability is missing, and returns the nodes with the missings ones
-[x] BayesianNetwork.factors() -> returns every probability and node in the structure (True or false, and conditionals)
-[x] BayesianNetwork.getCompact() -> returns a string with the full expression for the Probability of every node given its parents
+ - BayesianNetwork.describe() -> checks if a probability is missing, and returns the nodes with the missings ones
+ - BayesianNetwork.factors() -> returns every probability and node in the structure (True or false, and conditionals)
+ - BayesianNetwork.getCompact() -> returns a string with the full expression for the Probability of every node given its parents
 
 ### Tests
 
